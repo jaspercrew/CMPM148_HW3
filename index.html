@@ -1,0 +1,29 @@
+<!DOCTYPEhtml> <head>
+<script src="jquery-3.6.4.js"></script>
+<script src= "tracery.js"></script>
+<script src = "script.js"></script>
+<title> Justin Hu HW3</title>
+</head>
+<body>
+
+<button onclick="generate_prompt()"> Generate Prompt </button>
+<font size = "+3"> 
+<p id = "main_text"> Click "Generate Prompt" </p>
+</font>
+
+<p id = "textA"> </p>
+
+<p id = "ingreds"> main ingredients: </p>
+
+<form>
+    <div>
+      <label>Add an ingredient: </label>
+      <input type="text" id="ing" />
+    </div>
+    <div>
+      <button type = 'button' onclick ="add_ing()">Submit</button>
+    </div>
+</form>
+
+</body>
+</html>
