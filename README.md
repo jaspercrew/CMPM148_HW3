@@ -1,5 +1,7 @@
 Food Fusion
 
+Walkthrough: https://youtu.be/9pVHz0rA_hk
+
 
   A two-player role playing game centered around creating food. Some basic food knowledge is necessary. You are all talented chefs from different backgrounds and are looking to create new culinary experiences. 
 
